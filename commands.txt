@@ -1,0 +1,2 @@
+# Pull the main branch from the upstream repository
+git pull upstream main
